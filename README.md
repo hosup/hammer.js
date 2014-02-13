@@ -38,4 +38,4 @@ Created by [Jorik Tangelder](http://twitter.com/jorikdelaporik) and developed at
 
 It's recommend to listen to [this loop](http://soundcloud.com/eightmedia/hammerhammerhammer) while using hammer.js.
 
-##add samsung web technology lab
+## New Features for samsung web technology lab
