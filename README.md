@@ -37,3 +37,5 @@ Please don't commit the dist versions with your changes, only the changed source
 Created by [Jorik Tangelder](http://twitter.com/jorikdelaporik) and developed at [Eight Media](http://www.eight.nl/) in Arnhem, the Netherlands.
 
 It's recommend to listen to [this loop](http://soundcloud.com/eightmedia/hammerhammerhammer) while using hammer.js.
+
+##add samsung web technology lab
